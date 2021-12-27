@@ -2,7 +2,7 @@
 ![image](https://user-images.githubusercontent.com/95088918/147466912-616dd1ee-43f5-42b2-b9cd-367199907bca.png)
 
 *Esse é um projeto fictício, onde o contexto como a empresa, CEO, questões de negócios não são reais, esse projeto
-foi desenvolvido seguindo as diretrizes do blog: [Seja um Data Scientist](https://sejaumdatascientist.com/os-5-projetos-de-data-science-que-fara-o-recrutador-olhar-para-voce/) 
+foi desenvolvido seguindo as diretrizes do blog:* [Seja um Data Scientist](https://sejaumdatascientist.com/os-5-projetos-de-data-science-que-fara-o-recrutador-olhar-para-voce/) 
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
