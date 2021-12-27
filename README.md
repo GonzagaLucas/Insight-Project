@@ -8,6 +8,7 @@ foi desenvolvido seguindo as diretrizes do blog: [Seja um Data Scientist](https:
 
 [<img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>](https://analytics-house-gonzaga.herokuapp.com/)
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://analytics-house-gonzaga.herokuapp.com/)
 # Bem vindo a House Rocket Sales.
 A House Rocket é uma empresa fictícia, pertecente ao ramo imobiliário, se trata de uma empresa especializada na compra e venda de 
 imóveis, o seu lucro consiste em comprar imóveis por um preço menor que a média do mercado, e posteriormente vender por um valor maior
