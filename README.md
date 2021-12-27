@@ -1,22 +1,90 @@
-# House Rocket - Projeto de Insights
+# House Rocket - Projeto de Insights.
 ![image](https://user-images.githubusercontent.com/95088918/147466912-616dd1ee-43f5-42b2-b9cd-367199907bca.png)
 
-# Bem vindo a House Rocket Sales
+*Esse é um projeto fictício, onde o contexto como a empresa, CEO, questões de negócios não são reais, esse projeto
+foi desenvolvido seguindo as diretrizes do blog: [Seja um Data Scientist](https://sejaumdatascientist.com/os-5-projetos-de-data-science-que-fara-o-recrutador-olhar-para-voce/) 
+
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+
+[<img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>](https://analytics-house-gonzaga.herokuapp.com/)
+
+# Bem vindo a House Rocket Sales.
 A House Rocket é uma empresa fictícia, pertecente ao ramo imobiliário, se trata de uma empresa especializada na compra e venda de 
 imóveis, o seu lucro consiste em comprar imóveis por um preço menor que a média do mercado, e posteriormente vender por um valor maior
 que o comprado, no entanto, o cenário do mercado está cada vez mais desafiador, os imóveis possuem cada vez mais atributos, o que interfere
-diretamente no valor de revenda, como por exemplo, região do imóvel, quantidade de comôdos em específico, mês do ano em que o imóvel está sendo vendido.
+diretamente no valor de revenda, como por exemplo: região do imóvel, quantidade de comôdos, mês do ano em que o imóvel está sendo vendido.
 
-Para pontecializar a receita da empresa, o CEO nos contactou para fazermos uma análise dos imóveis disponíveis
-para compra, encontrar as melhores opções, e apresentar os princiais atributos que impactam no preço do imóvel.
+Para pontecializar a quantidade de bons negócios feitos pela House Rocket, o CEO nos contactou para fazermos uma análise dos imóveis disponíveis
+para compra, afim de encontrar as melhores opções, e apresentar os princiais atributos que impactam no preço do imóvel.
   
 O foco principal do projeto será responder as seguintes perguntas:
     
     ° Quais casas a House Rocket deveria comprar e por qual preço de compra?
     ° Uma vez a casa em posse da empresa, qual o melhor momento para vendê-las e qual seria o preço da venda?
     
-# Estrutura de Dados
+# Atributos.
 
 Os dados para esse projeto foram coletados na plataforma do Kaggle: https://www.kaggle.com/harlfoxem/housesalesprediction
 
 Nesse conjunto de dados está listadas as casas a venda em King County - USA, entre os anos de 2014 e 2015
+|    Atributos    |                         Definição                            |
+| :-------------: | :----------------------------------------------------------: |
+|       id        |       Numeração única de identificação de cada imóvel        |
+|      date       |                    Data da venda do imóvel                   |
+|      price      |    Preço que o imóvel foi colocado a venda                   |
+|    bedrooms     |                      Número de quartos                       |
+|    bathrooms    | Número de banheiros (0.5 = banheiro sem chuveiro)            |
+|   sqft_living   | Medida (em pés quadrado) do espaço interior dos apartamentos |
+|    sqft_lot     |     Medida (em pés quadrado) quadrada do espaço terrestre     |
+|     floors      |                 Número de andares do imóvel                  |
+|   waterfront    | Variável que indica a presença ou não de vista para água (0 = não e 1 = sim) |
+|      view       | Um índice de 0 a 4 que indica a qualidade da vista da propriedade. Varia de 0 a 4, onde: 0 = baixa  4 = alta |
+|    condition    | Um índice de 1 a 5 que indica a condição da casa. Varia de 1 a 5, onde: 1 = baixo \|-\| 5 = alta |
+|      grade      | Um índice de 1 a 13 que indica a construção e o design do edifício. Varia de 1 a 13, onde: 1-3 = baixo, 7 = médio e 11-13 = alta |
+|  sqft_basement  | A metragem quadrada do espaço habitacional interior acima do nível do solo |
+|    yr_built     |               Ano de construção de cada imóvel               |
+|  yr_renovated   |                Ano de reforma de cada imóvel                 |
+|     zipcode     |                         CEP da casa                          |
+|       lat       |                           Latitude                           |
+|      long       |                          Longitude                           |
+| sqft_livining15 | Medida (em pés quadrado) do espaço interno de habitação para os 15 vizinhos mais próximo |
+|   sqft_lot15    | Medida (em pés quadrado) dos lotes de terra dos 15 vizinhos mais próximo |
+
+# Premissas Assumidas.
+
+  Foram consideradas as seguintes premissas para o projeto:
+  - Valores de ID duplicados foram excluídos.
+  - A coluna "price" representa o valor de compra do imóvel.
+  - Dividimos o calendário em uma nova coluna, chamada "season", onde o valor da coluna é a estação do ano da data do anúncio, uma vez que se trata de uma informação relevante pro preço do imóvel.
+
+# Processo de Solução.
+
+1 - Coleta dos dados em local de origem (Kaggle)
+
+2 - Entendimento do negócio
+
+3 - Limpeza e tratamento do DF
+    
+      Checagem de outliers impactantes no resultado final
+      Transformação de variáveis que apresentavam o tipo errado
+      Limpeza de valores duplicados
+
+4 - Análise exploratória dos dados
+
+5 - Criar hipóteses para extração de insights para o negócio
+
+6 - Criação do web app com dashboards de auxílio a tomada de decisão da companhia
+
+7 - Conclusão
+
+       Resultado financeiro do projeto
+       Considerações finais
+       
+# Principais Insights e Forma de Aplicação
+
+
+# Retorno Financeiro Obtido e Conclusão
+
+
+
+      
