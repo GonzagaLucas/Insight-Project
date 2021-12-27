@@ -83,6 +83,14 @@ Nesse conjunto de dados está listadas as casas a venda em King County - USA, en
        
 # Principais Insights e Forma de Aplicação
 
+| Insights                                                     |  Aplicação                                                   |
+| ------------------------------------------------------------ |  ------------------------------------------------------------ |
+| **1** - Imóveis com vista para água são mais valorizados em mais de 150% | Investir em imóveis com vista para água                      |
+| **2** - Imóveis com 3 ou mais banheiros são 100% mais valorizados que imóveis com menos de 3 banheiros | Investir em imóveis com pelo menos dois banheiros, e a depender da situação do imóvel, adicionar um banheiro       |
+| **3** - A valorização do preço do imóvel é de em média, 21% ao ano | Não desespere se determinado imóvel ficar alguns dias, ou meses a venda, lembre-se que esse imóvel está sendo valorizado, e se for o caso, ajustar o preço de acordo com a valorização                         |
+| **4** - Imóveis com 4 ou mais quartos tem uma valorização de 49% no preço de mercado | Investir em imóveis com 3 quartos e fazer uma reforma pode aumentar ainda mais o preço desse imóvel no mercado  |
+| **5** - Imóveis que nunca foram reformados são em média 40% mais baratos | Investir em imóveis não reformados, e posteriormente reforma-los para vender, duas sugestões de reformas com base nos dados que irão fazer o imóvel valorizar no mercado: adicionar banheiro e quarto                         |
+
 
 # Retorno Financeiro Obtido e Conclusão
 
