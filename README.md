@@ -1,9 +1,7 @@
 # House Rocket - Projeto de Insights.
 ![image](https://user-images.githubusercontent.com/95088918/147466912-616dd1ee-43f5-42b2-b9cd-367199907bca.png)
 
-*Esse é um projeto fictício, onde o contexto como: a empresa, CEO e questões de negócios, não são reais, esse projeto
-foi desenvolvido seguindo as diretrizes do blog:* [Seja um Data Scientist](https://sejaumdatascientist.com/os-5-projetos-de-data-science-que-fara-o-recrutador-olhar-para-voce/) 
-
+*Esse é um projeto fictício, onde o contexto como: a empresa, CEO e questões de negócios, não são reais.
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
 [<img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>](https://analytics-house-gonzaga.herokuapp.com/)
