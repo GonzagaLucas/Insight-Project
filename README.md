@@ -82,13 +82,31 @@ Nesse conjunto de dados está listadas as casas a venda em King County - USA, en
        
 # Principais Insights e Forma de Aplicação
 
-| Insights                                                     |  Aplicação                                                   |
+**1 - Imóveis com vista para água são valorizados em mais de 150%.**
+<img width="650" height="400" src="https://user-images.githubusercontent.com/95088918/147759178-a0ae855e-0702-44c4-bd17-e480f1eab3f1.png" />
+
+**2 - Imóveis com 3 ou mais banheiros são 100% mais valorizados que imóveis com menos de 3 banheiros.**
+<img width="650" height="400" src="https://user-images.githubusercontent.com/95088918/147759642-fad2fc3c-ab6e-46e6-ad00-580f00bcd65c.png" />
+
+**3 - A valorização do preço do imóvel é de, em média, 21% ao ano.**
+<img width="650" height="400" src="https://user-images.githubusercontent.com/95088918/147759656-aa21b792-a664-4b7f-8628-a81ac5b93df0.png" />
+
+**4 - Imóveis com 4 ou mais quartos tem uma valorização de 49% no preço de mercado.**
+<img width="650" height="400" src="https://user-images.githubusercontent.com/95088918/147759663-146a958f-d5a1-4eb8-b1b4-12e34114b8e4.png" />
+
+**5 - Imóveis que nunca foram reformados são em média 40% mais baratos.**
+<img width="650" height="400" src="https://user-images.githubusercontent.com/95088918/147759681-74c9c6de-61b8-401b-a737-2c2950dd96c8.png" />
+
+
+| Insights                                                     |  Aplicação                                                   | 
 | ------------------------------------------------------------ |  ------------------------------------------------------------ |
 | **1** - Imóveis com vista para água são valorizados em mais de 150% | Investir em imóveis com vista para água                      |
 | **2** - Imóveis com 3 ou mais banheiros são 100% mais valorizados que imóveis com menos de 3 banheiros | Investir em imóveis com pelo menos dois banheiros, e a depender da situação do imóvel, adicionar um banheiro       |
 | **3** - A valorização do preço do imóvel é de, em média, 21% ao ano | Não desespere se determinado imóvel ficar alguns dias, ou meses, a venda, lembre-se que esse imóvel está sendo valorizado, e se for o caso, reajuste o preço de venda de acordo com a valorização                         |
 | **4** - Imóveis com 4 ou mais quartos tem uma valorização de 49% no preço de mercado | Investir em imóveis com 3 quartos e fazer uma reforma pode aumentar ainda mais o preço desse imóvel no mercado  |
 | **5** - Imóveis que nunca foram reformados são em média 40% mais baratos | Investir em imóveis não reformados, e posteriormente reforma-los para vender, duas sugestões de reformas com base nos dados que valorizará o imóvel: adicionar banheiro e quarto                         |
+
+
 
 
 # Retorno Financeiro Obtido e Conclusão
