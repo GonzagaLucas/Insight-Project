@@ -86,7 +86,7 @@ Nesse conjunto de dados está listadas as casas a venda em King County - USA, en
 <img width="650" height="400" src="https://user-images.githubusercontent.com/95088918/147759178-a0ae855e-0702-44c4-bd17-e480f1eab3f1.png" />
 
 **2 - Imóveis com 3 ou mais banheiros são 100% mais valorizados que imóveis com menos de 3 banheiros.**
-<img width="650" height="400" src="https://user-images.githubusercontent.com/95088918/147759642-fad2fc3c-ab6e-46e6-ad00-580f00bcd65c.png" />
+<img width="650" height="400" src="https://user-images.githubusercontent.com/95088918/147833657-63c4f2c8-8ff6-4c6e-b8e4-7307b7bcf269.png" />
 
 **3 - A valorização do preço do imóvel é de, em média, 21% ao ano.**
 <img width="650" height="400" src="https://user-images.githubusercontent.com/95088918/147759656-aa21b792-a664-4b7f-8628-a81ac5b93df0.png" />
