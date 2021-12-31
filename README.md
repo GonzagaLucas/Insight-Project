@@ -115,7 +115,7 @@ Após a análise exploratória dos dados, a fim de potencializarmos o ROI da Hou
 
 Elaboramos também uma tabela que continha sugestões de venda para os potenciais imóveis comprados, onde nessa tabela, o CEO encontraria: preço sugerido para a venda, melhor epóca do ano a se vender o imóvel, e lucro esperado pela transação, através dessa tabela, o CEO conseguiria explorar o potencial de venda do imóvel.
 
-Por ultimo, finalizamos um APP que foi colocado em produção(disponível para o CEO acessar em qualquer lugar, seja de um computador, tablet, ou celular), e nesse APP ele conseguria ter acesso a essas duas tabelas em apenas um lugar, além de poder visualizar no mapa interativo os imóveis sugeridos para compra, e também pesquisar imóveis por atributos específicos.
+Por ultimo, finalizamos um APP que foi colocado em produção(disponível para o CEO acessar em qualquer lugar, seja de um computador, tablet, ou celular) [<img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>](https://analytics-house-gonzaga.herokuapp.com/), e nesse APP ele conseguria ter acesso a essas duas tabelas em apenas um lugar, além de poder visualizar no mapa interativo os imóveis sugeridos para compra, e também pesquisar imóveis por atributos específicos.
 
 O lucro resultante da venda dos imóveis está estipulado em *$376.310.918,50*, deixando assim claro, que se o time de negócios da empresa souber utilizar os insights aqui apresentados, juntamente das sugestões de compra, a House Rocket terá um ótimo retorno financeiro!
 
